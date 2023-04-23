@@ -1,8 +1,6 @@
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=brandeddavid&show_icons=true&theme=dark&count_private=true" />
-
-<!-- <img align="right" width="47%" margin="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandeddavid&layout=compact&count_private=true" />
--->
+<img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <!--
 **brandeddavid/brandeddavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
