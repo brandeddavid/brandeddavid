@@ -1,9 +1,9 @@
 ## GitHub Stats
 
-<div>
+<!-- <div>
 <img align="left" style="margin-right: 10px"  width="47%" src="https://github-readme-stats.vercel.app/api?username=brandeddavid&show_icons=true&theme=dark&count_private=true&border_radius=20" />
  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandeddavid&layout=compact&count_private=true&theme=dark&border_radius=20&hide=php,html,roff" /> 
-</div>
+</div> -->
 
 ## Languages
 
